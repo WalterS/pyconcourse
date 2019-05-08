@@ -1,0 +1,8 @@
+.DS_Store
+.idea
+*.sw?
+*~
+*.bak
+.project
+.yardoc
+__pycache__
